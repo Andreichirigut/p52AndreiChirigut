@@ -38,6 +38,8 @@
         Edad: <%= cli.getEdad()%> <br>
         Nombre: <%= cli.getNombre()%> <br>
         Correo: <%= cli.getCorreo()%> <br>
+        
+        <p><a href="index.html">Volver<a/></p>
 
         <% }%> <!-- LLave del else -->
 
